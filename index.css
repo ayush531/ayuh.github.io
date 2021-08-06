@@ -1,0 +1,11 @@
+.flex-continer{
+    display: flex;
+    height: 45vh;
+    flex-direction: column;
+}
+.contaner{
+    background-color: brown;
+    border: 2px solid black;
+    color: #000;
+    text-align: center;
+}
